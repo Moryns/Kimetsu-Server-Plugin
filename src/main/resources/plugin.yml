@@ -1,0 +1,8 @@
+name: KimetsuServerPlugin
+version: '${project.version}'
+main: org.example.kimetsuservercore.kimetsuserverplugin.KimetsuServerPlugin
+api-version: '1.16'
+
+commands:
+  database:
+  statreset:
