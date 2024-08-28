@@ -1,0 +1,10 @@
+BaseCommand:
+  me-radius: 30
+  do-radius: 30
+  try-radius: 30
+  nrp-radius: 100
+  me-char: "&#FFBA00✦"
+  do-char: "&#8B72E5✦"
+  try-char: "&#EA69AD✦"
+  nrp-char: "&#666666✦"
+  report-char: "&#303564✦"

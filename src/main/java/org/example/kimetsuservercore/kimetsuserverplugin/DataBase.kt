@@ -23,7 +23,7 @@ object DataBase{
     }
 
     fun getInt(path: String): Int{
-        return ((dataBase.getString(path, "0")!!.toIntOrNull()) ?: 0)
+        return ((dataBase.get(path, "0").toString().toIntOrNull()) ?: 0)
     }
 
     fun getStr(path: String): String{

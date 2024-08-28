@@ -5,4 +5,14 @@ api-version: '1.16'
 
 commands:
   database:
+    permission: "ksc.database"
   statreset:
+    permission: "ksc.database.reset"
+  statsmenu:
+  kimetsuexp:
+    permission: "ksc.experience"
+  me:
+  do:
+  try:
+  n:
+  report:
